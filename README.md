@@ -1218,7 +1218,7 @@
 #### Coding and Data Structures
 
 - Here's a CUDA kernel that's 10x slower than expected. Without running it, what are the usual suspects, and how do you confirm each?
-  - Answer: [How does a GPU work for Deep Learning?](https://outcomeschool.com/blog/how-does-a-gpu-work-for-deep-learning)
+  - Answer: [How does a GPU work for Deep Learning?](https://outcomeschool.com/blog/how-does-a-gpu-work-for-deep-learning) and [How do CUDA Kernels work?](https://outcomeschool.com/blog/how-do-cuda-kernels-work)
 - Implement the block manager for a paged KV cache: allocate, append, free, and copy-on-write prefix sharing.
   - Answer: [Paged Attention in LLMs](https://outcomeschool.com/blog/paged-attention-in-llms)
 - A model runs fine in FP32 but produces garbage after conversion to FP16. Debug it.
