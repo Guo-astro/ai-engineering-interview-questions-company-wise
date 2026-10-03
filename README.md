@@ -131,7 +131,7 @@
   - Answer: [Decoding Flash Attention in LLMs](https://outcomeschool.com/blog/decoding-flash-attention)
 - How does Byte Pair Encoding work, and what are its failure modes (numbers, code, non-Latin scripts)?
   - Asked at: [Alibaba](#alibaba-qwen), [Sarvam AI](#sarvam-ai), [Hugging Face](#hugging-face)
-  - Answer: [Byte Pair Encoding](https://outcomeschool.com/blog/bpe-in-llms) and [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI)
+  - Answer: [Byte Pair Encoding](https://outcomeschool.com/blog/bpe-in-llms) and [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI) and [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms)
 - What is positional encoding in transformers, and how has it evolved (sinusoidal → learned → RoPE → ALiBi)?
   - Answer: [Positional Embeddings in LLMs](https://outcomeschool.substack.com/p/positional-embeddings-in-llms) and [Math Behind RoPE (Rotary Position Embedding)](https://outcomeschool.com/blog/math-behind-rope-rotary-position-embedding)
 - Explain RoPE and how position interpolation / YaRN extend context beyond the trained length.
@@ -1014,7 +1014,7 @@
 #### LLM Internals and Architecture
 
 - Why is tokenization the first bottleneck for Indian-language LLMs, and how does a low-fertility tokenizer change the economics?
-  - Answer: [Byte Pair Encoding](https://outcomeschool.com/blog/bpe-in-llms) and [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI)
+  - Answer: [Byte Pair Encoding](https://outcomeschool.com/blog/bpe-in-llms) and [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI) and [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms)
 
 #### Inference, Serving and GPU Performance
 
@@ -1452,7 +1452,7 @@
 
 - Walk me through what actually happens when someone calls AutoModelForCausalLM.from_pretrained(…, device_map=“auto”, torch_dtype=“auto”).
 - Compare BPE, WordPiece and Unigram tokenization. Why is `tokenizers` written in Rust, and what tokenizer bugs bite people in practice?
-  - Answer: [Byte Pair Encoding](https://outcomeschool.com/blog/bpe-in-llms) and [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI)
+  - Answer: [Byte Pair Encoding](https://outcomeschool.com/blog/bpe-in-llms) and [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI) and [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms)
 - What problem do chat templates solve, and what goes wrong when they're ignored?
 
 #### Fine-Tuning, Post-Training and Alignment
