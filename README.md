@@ -1145,7 +1145,7 @@
 #### Agents and Tool Use
 
 - Design an agent that operates a web browser to complete multi-step tasks. How do you make it reliable enough to ship?
-  - Answer: [How do Computer-Use Agents work?](https://outcomeschool.com/blog/how-do-computer-use-agents-work)
+  - Answer: [How do Computer-Use Agents work?](https://outcomeschool.com/blog/how-do-computer-use-agents-work) and [How do Browser Agents work?](https://outcomeschool.com/blog/how-do-browser-agents-work)
 
 #### AI System Design
 
