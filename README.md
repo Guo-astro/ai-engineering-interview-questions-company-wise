@@ -255,7 +255,7 @@
   - Answer: [Multi-Agent Systems](https://outcomeschool.com/blog/multi-agent-systems) and [AI Orchestration](https://outcomeschool.com/blog/ai-orchestration)
 - Design memory for a long-running agent: what do you store, where, and how do you retrieve it?
   - Asked at: [Anthropic](#anthropic)
-  - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory)
+  - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory) and [How does ChatGPT remember you?](https://outcomeschool.com/blog/how-does-chatgpt-remember-you)
 - How does an agent decide when to call a tool versus answer from its own knowledge?
   - Answer: [How does Function Calling work in LLMs?](https://outcomeschool.com/blog/how-does-function-calling-work-in-llms)
 - What makes an agent loop terminate correctly? How do you bound cost and steps?
