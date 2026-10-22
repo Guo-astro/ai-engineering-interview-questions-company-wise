@@ -471,7 +471,7 @@
   - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - Explain attention-free transformer architectures and their trade-offs.
 - Walk me through matrix manipulations relevant to LLM architectures.
-  - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
+  - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv) and [How Does Matrix Multiplication Work in Neural Networks?](https://outcomeschool.com/blog/matrix-multiplication-in-neural-networks)
 
 #### Inference, Serving and GPU Performance
 
